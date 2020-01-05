@@ -1,0 +1,1 @@
+This is my first independant project after learning more about the command line/terminal. I'm excited to see where this goes!
